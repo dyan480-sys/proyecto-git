@@ -1,1 +1,2 @@
 Primer contenido para git
+Segundo cambio realizado en el proyecto
